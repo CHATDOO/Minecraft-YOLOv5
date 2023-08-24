@@ -3,6 +3,9 @@
 
 Ce dépôt contient un script Python pour la détection en temps réel d'objets dans Minecraft en utilisant le modèle YOLOv5 avec des catégories personnalisées. Le script utilise le modèle YOLOv5 du référentiel Ultralytics pour détecter des objets à partir d'un flux vidéo en direct. Vous pouvez sélectionner la catégorie que vous souhaitez détecter à partir d'un menu déroulant et visualiser les résultats de détection en temps réel sur l'interface utilisateur graphique.
 
+
+https://cdn.discordapp.com/attachments/1015827662700290109/1144068596599898193/image.png
+
 ## Prérequis
 
 Avant d'exécuter le script, vous devez avoir les dépendances suivantes installées :
