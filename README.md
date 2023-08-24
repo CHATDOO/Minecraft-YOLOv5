@@ -27,7 +27,7 @@ pip install opencv-python numpy torch tkinter pillow git+https://github.com/ultr
 
 ```bash
 git clone https://github.com/CHATDOO/Minecraft-YOLOv5
-cd votre-depot
+cd Minecraft-YOLOv5
 ```
 
 2. Exécutez le script :
