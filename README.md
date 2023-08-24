@@ -61,7 +61,5 @@ Ce script utilise le modèle YOLOv5 du référentiel Ultralytics. Pour plus d'in
 
 Référentiel Ultralytics : https://github.com/ultralytics/yolov5
 
-## Licence
-
-Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+#Si vous souhaitez reprendre le modèle pré-entraîné (model.pt) ou des morceaux du script pour vos propres projets, n'hésitez pas à effectuer un fork de ce dépôt.
 
